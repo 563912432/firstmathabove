@@ -67,7 +67,7 @@ export default {
     z-index: 0;
   }
   .detail .back{
-    background-color: #212121;
+    background-color: #66912a;
     border-radius: 20px;
     position: fixed;
     left: 10px;
